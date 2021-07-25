@@ -1,0 +1,35 @@
+{
+  "name": "universal-numbers-formatter",
+  "version": "1.0.0",
+  "description": "Universal numbers formatter converts supplied number into different local format.",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "keywords": [
+    "universal-numbers-formatter",
+    "numbers-formatter",
+    "react-universal-numbers-formatter"
+  ],
+  "author": "Satyendra Pandit",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-node-resolve": "^13.0.2",
+    "rollup": "^2.53.3",
+    "rollup-plugin-terser": "^7.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satyendra2013/universal-numbers-formatter.git"
+  },
+  "bugs": "https://github.com/satyendra2013/universal-numbers-formatter/issues"
+}
