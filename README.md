@@ -44,23 +44,6 @@ console.log('Test=2', modifiedNumberObject2);
 // }
 ```
 
-## Using a script tag:
-
-```jsx
-<html>
-  <head>
-    <script src='scripts/universal-numbers-formatter.min.js'></script>
-  </head>
-  <body>
-    <div id='app' />
-    <script>
-      const test = universalNumbersFormatter.universalNumbersFormatter(
-      13546595.12344, 'en', 'US', true, 'USD' );
-    </script>
-  </body>
-</html>
-```
-
 ## Using RequireJS:
 
 ```js
