@@ -1,6 +1,6 @@
 {
   "name": "universal-numbers-formatter",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Universal numbers formatter converts supplied number into different local format.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
