@@ -95,6 +95,10 @@ universalNumbersFormatter =
 
 `(Optional)` Fifth argument is optional. If you need currency denotation, then first enable `isCurrency` as `true` and then supply `currencyCode`. For example - `USD` for Dollars and `INR` for Rupees and so on. The currency to use in currency formatting. Possible values are the ISO 4217 currency codes, such as "USD" for the US dollar, "EUR" for the euro, or "CNY" for the Chinese RMB.
 
+## Support
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/satyendra10)
+
 ## License
 
 MIT © [Satyendra Pandit](https://github.com/satyendra2013)
