@@ -81,11 +81,11 @@ universalNumbersFormatter =
 
 ### `langaugeCode` : String
 
-`(Mandatory)` Second argument must be `string` which denotes language code. Example `en` for English and `de` for German and so on. Details - (https://github.com/satyendra2013/universal-numbers-formatter#supported-language-codes).
+`(Mandatory)` Second argument must be `string` which denotes language code. Example `en` for English and `de` for German and so on. [Show Details](https://github.com/satyendra2013/universal-numbers-formatter#supported-language-codes).
 
 ### `countryCode`: String
 
-`(Mandatory)` Third argument must be `string` which denotes country code. Example `US` for USA and `IN` for India and so on. Details. Details - (https://github.com/satyendra2013/universal-numbers-formatter#supported-country-codes).
+`(Mandatory)` Third argument must be `string` which denotes country code. Example `US` for USA and `IN` for India and so on. Details. [Show Details](https://github.com/satyendra2013/universal-numbers-formatter#supported-country-codes).
 
 ### `isCurrency`: Boolean
 
@@ -93,11 +93,11 @@ universalNumbersFormatter =
 
 ### `currencyCode`: String
 
-`(Optional)` Fifth argument is optional. If you need currency denotation, then first enable `isCurrency` as `true` and then supply `currencyCode`. For example - `USD` for Dollars and `INR` for Rupees and so on. The currency to use in currency formatting. Possible values are the ISO 4217 currency codes, such as "USD" for the US dollar, "EUR" for the euro, or "CNY" for the Chinese RMB. Details - (https://github.com/satyendra2013/universal-numbers-formatter#supported-currency-codes)
+`(Optional)` Fifth argument is optional. If you need currency denotation, then first enable `isCurrency` as `true` and then supply `currencyCode`. For example - `USD` for Dollars and `INR` for Rupees and so on. The currency to use in currency formatting. Possible values are the ISO 4217 currency codes, such as "USD" for the US dollar, "EUR" for the euro, or "CNY" for the Chinese RMB. [Show Details](https://github.com/satyendra2013/universal-numbers-formatter#supported-currency-codes)
 
 ## Support
 
-If my work made your work easier. You can support via
+If my work made your life easier. You can support via
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/satyendra10)
 
