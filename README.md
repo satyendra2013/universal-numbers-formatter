@@ -98,6 +98,7 @@ universalNumbersFormatter =
 ## Support
 
 If my work made your work easier. You can support via
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/satyendra10)
 
 ## Supported Language Codes
@@ -542,7 +543,7 @@ If my work made your work easier. You can support via
 
 ## Supported Currency Codes
 
-| Country(or Region)                                         | Currency                                      | currencyCode |
+| Country (or Region)                                        | Currency                                      | currencyCode |
 | ---------------------------------------------------------- | --------------------------------------------- | ------------ |
 | AFGHANISTAN                                                | Afghani                                       | AFN          |
 | ÅLAND ISLANDS                                              | Euro                                          | EUR          |
